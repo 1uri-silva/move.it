@@ -3,9 +3,9 @@
 
 🌟 Tecnologias
 
--[React](https://reactjs.org/)\
--[NextJs](https://nextjs.org/)\
--[Typescript](https://www.typescriptlang.org/)
+-v[React](https://reactjs.org/)\
+-v[NextJs](https://nextjs.org/)\
+-v[Typescript](https://www.typescriptlang.org/)
 
 ---
 
@@ -23,11 +23,11 @@ Você pode visualizar o [layout](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1
 
 ```bash
 ##clone o projeto
-- git clone
+ git clone https://github.com/rd-easy/move.it.git
 ##entre no repositório
-- cd 
+ cd move.it
 #instale as dependências
-- yarn install || npm install
+ yarn install || npm install
 ## inicie o servidor
-- yarn dev || npm dev
+ yarn dev || npm dev
 ```
