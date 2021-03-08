@@ -3,9 +3,9 @@
 
 🌟 Tecnologias
 
--v[React](https://reactjs.org/)\
--v[NextJs](https://nextjs.org/)\
--v[Typescript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [NextJs](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ---
 
